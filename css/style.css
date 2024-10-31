@@ -1,0 +1,23 @@
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: fantasy;
+	font-size: 20px;
+	margin: 0px;
+	text-align: center;
+}
+
+h1 h2h3 {
+	font-family: initial;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+}
